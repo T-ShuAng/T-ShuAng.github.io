@@ -1,7 +1,10 @@
-<%php 
+<!DOCTYPE html> 
+<html> 
+<body> 
 
-echo '123456'
+<?php 
+echo "Hello World!"; 
+?> 
 
-
-
-%>
+</body> 
+</html>
